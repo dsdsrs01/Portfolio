@@ -8,9 +8,9 @@ function toggleMode() {
   // }
   const img = document.querySelector()
 
-  if (html.classList.contains("light")) {
-    img.setAttribute("src", "./assets/avatar-light.png")
-  } else {
-    img.setAttribute("src", "./assets/avatar.png")
-  }
+  // if (html.classList.contains("light")) {
+  //   img.setAttribute("src", "./assets/avatar-light.png")
+  // } else {
+  //   img.setAttribute("src", "./assets/avatar.png")
+  // }
 }
